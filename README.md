@@ -1,1 +1,1 @@
-This is the startign github tutorial. Obviously.
+This is the starting github tutorial. Obviously.
